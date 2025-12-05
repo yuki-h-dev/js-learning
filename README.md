@@ -10,7 +10,9 @@ A repository for reviewing JavaScript.
 
 ## Folder structure
 
+```
 js-learning/
 ├── basics/
 │ ├── variables.js
 │
+```
