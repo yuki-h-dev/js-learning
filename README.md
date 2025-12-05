@@ -13,6 +13,6 @@ A repository for reviewing JavaScript.
 ```
 js-learning/
 ├── basics/
-│ ├── variables.js
+│   ├── variables.js
 │
 ```
