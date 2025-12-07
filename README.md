@@ -13,6 +13,7 @@ A repository for reviewing JavaScript.
 ```
 js-learning/
 ├── basics/
+│   ├── function.js
 │   ├── variables.js
 │
 ```
@@ -32,3 +33,15 @@ js-learning/
 - In React, we basically use const
 
 Coding: basics/variable.js
+
+### Day 2
+
+#### Review of arrow function
+
+- arrow function:
+  - Single argument arrow functions allow for parenthesis omission
+  - For single line arrow functions, the curly braces and return statement can be omitted for implicit return
+  - Arrow functions do not bind "this"
+- In React, we basically use arrow function
+
+Coding: basics/function.js
