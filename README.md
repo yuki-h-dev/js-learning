@@ -13,9 +13,10 @@ A repository for reviewing JavaScript.
 ```
 js-learning/
 ├── basics/
-│   ├── function.js
+│   ├── destructuring.js
+│   ├── functions.js
 │   ├── variables.js
-│
+│   ├──
 ```
 
 ## Log
@@ -45,3 +46,18 @@ Coding: basics/variable.js
 - In React, we basically use arrow function
 
 Coding: basics/function.js
+
+### Day 3
+
+#### Review of destructuring assignment
+
+- Object:
+  - Object destructuring uses {}
+  - A property name can be assigned to a variable with a different name than the object property
+  - Default values can be set
+- Array:
+  - Array destructuring uses []
+  - Default values can be set
+- In React(props and state), we basically use destructuring
+
+Coding: basics/destructuring.js
