@@ -49,7 +49,7 @@ Coding: basics/function.js
 
 ### Day 3
 
-#### Review of destructuring assignment
+### Review of destructuring assignment
 
 - Object:
   - Object destructuring uses {}
