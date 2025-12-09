@@ -15,6 +15,7 @@ js-learning/
 ├── basics/
 │   ├── destructuring.js
 │   ├── functions.js
+│   ├── objectShorthand.js
 │   ├── variables.js
 │   ├──
 ```
@@ -49,7 +50,7 @@ Coding: basics/function.js
 
 ### Day 3
 
-### Review of destructuring assignment
+#### Review of destructuring assignment
 
 - Object:
   - Object destructuring uses {}
@@ -61,3 +62,12 @@ Coding: basics/function.js
 - In React(props and state), we basically use destructuring
 
 Coding: basics/destructuring.js
+
+### Day 4
+
+#### Review of Object Shorthand
+
+- Property Value Shorthand
+- Method Definition Shorthand
+
+Coding: basics/objectShorthand.js
