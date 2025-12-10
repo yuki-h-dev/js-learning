@@ -12,10 +12,15 @@ A repository for reviewing JavaScript.
 
 ```
 js-learning/
+├── array/
+│   ├── filter.js
+│   ├── map.js
+│   ├── reduce.js
 ├── basics/
 │   ├── destructuring.js
 │   ├── functions.js
 │   ├── objectShorthand.js
+│   ├── spread-vs-rest.js
 │   ├── variables.js
 │   ├──
 ```
@@ -71,3 +76,33 @@ Coding: basics/destructuring.js
 - Method Definition Shorthand
 
 Coding: basics/objectShorthand.js
+
+### Day 5
+
+#### Review of spread syntax and rest syntax
+
+- Expanding, copying and Merging
+- Gathers multiple elements or properties a single array or object
+- In React, we don't rewrite objects directly, so the basic principle is to "create new values" using spread syntax
+
+Coding: basics/spread-vs-rest.js
+
+#### Review of the map() method of Array
+
+- Immutability: It always returns a new array, leaving the original array untouched
+- In React, the map method is essential for UI generation
+
+Coding: array/map.js
+
+#### Review of the filter() method of Array
+
+- Immutability: It always returns a new array, leaving the original array untouched
+- Creates a new array containing only the elements from the original array that satisfy a specific condition
+
+Coding: array/filter.js
+
+#### Review of the reduce() method of Array
+
+- Executes a reducer function on each element of the array, resulting in a single output value
+
+Coding: array/reduce.js
