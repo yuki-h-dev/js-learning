@@ -19,7 +19,7 @@ js-learning/
 ├── basics/
 │   ├── destructuring.js
 │   ├── functions.js
-│   ├── objectShorthand.js
+│   ├── object-shorthand.js
 │   ├── spread-vs-rest.js
 │   ├── variables.js
 │   ├──
