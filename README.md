@@ -31,6 +31,10 @@ js-learning/
 │   ├── app.js
 │   ├── math-utils.js
 │   ├── message.js
+├── todo-app-js/
+│   ├── index.html
+│   ├── main.js
+│   ├── style.css.js
 ```
 
 ## Log
@@ -160,4 +164,12 @@ Coding: async/async-await-basics.js
 - import: A keyword used to bring exported features from another module into the current file
 - In React, everything is a component/module
 
-Coding: es-modules/math-utils.js, es-modules/message.js, es-modules/app.js,
+Coding: es-modules/math-utils.js, es-modules/message.js, es-modules/app.js
+
+### Day 7
+
+#### Creating a ToDo app using only JavaScript
+
+- Built the structure up to the point just before implementing the functionality
+
+Coding: todo-app-js/index.html, todo-app-js/style.css
