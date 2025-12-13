@@ -168,7 +168,7 @@ Coding: es-modules/math-utils.js, es-modules/message.js, es-modules/app.js
 
 ### Day 7
 
-#### Creating a ToDo app using only JavaScript
+#### Project: ToDo app using only JavaScript
 
 - Built the structure up to the point just before implementing the functionality
 
