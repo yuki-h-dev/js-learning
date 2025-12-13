@@ -173,3 +173,11 @@ Coding: es-modules/math-utils.js, es-modules/message.js, es-modules/app.js
 - Built the structure up to the point just before implementing the functionality
 
 Coding: todo-app-js/index.html, todo-app-js/style.css
+
+### Day 8
+
+#### Project: ToDo app using only JavaScript
+
+- Implemented the ToDo add feature
+
+Coding: todo-app-js/index.html, todo-app-js/main.css
