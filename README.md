@@ -181,3 +181,11 @@ Coding: todo-app-js/index.html, todo-app-js/style.css
 - Implemented the ToDo add feature
 
 Coding: todo-app-js/index.html, todo-app-js/main.css
+
+### Day 9
+
+#### Project: ToDo app using only JavaScript
+
+- Implemented the ToDo delete feature
+
+Coding: todo-app-js/main.css
