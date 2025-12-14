@@ -16,6 +16,10 @@ const onClickAdd = () => {
 
   const deleteBtn = document.createElement("button");
   deleteBtn.innerText = "削除";
+  deleteBtn.addEventListener("click", () => {
+    const deleteTarget = deleteBtn.closest("li");
+    deleteTarget.remove();
+  });
 
   div.appendChild(p);
   div.appendChild(completeBtn);
