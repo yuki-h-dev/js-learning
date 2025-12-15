@@ -13,6 +13,18 @@ const onClickAdd = () => {
 
   const completeBtn = document.createElement("button");
   completeBtn.innerText = "完了";
+  completeBtn.addEventListener("click", () => {
+    const moveTarget = completeBtn.closest("li");
+    completeBtn.nextElementSibling.remove();
+    completeBtn.remove();
+
+    const backBtn = document.createElement("button");
+    backBtn.innerText = "戻す";
+    moveTarget.firstElementChild.appendChild(backBtn);
+
+    const completeList = document.getElementById("complete-list");
+    completeList.appendChild(moveTarget);
+  });
 
   const deleteBtn = document.createElement("button");
   deleteBtn.innerText = "削除";
