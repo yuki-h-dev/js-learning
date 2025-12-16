@@ -197,3 +197,11 @@ Coding: todo-app-js/main.css
 - Implemented the ToDo complete feature
 
 Coding: todo-app-js/index.html, todo-app-js/main.css
+
+### Day 11
+
+#### Project: ToDo app using only JavaScript
+
+- Implemented the ToDo return feature
+
+Coding: todo-app-js/main.js
