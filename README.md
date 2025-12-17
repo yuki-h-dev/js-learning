@@ -180,7 +180,7 @@ Coding: todo-app-js/index.html, todo-app-js/style.css
 
 - Implemented the ToDo add feature
 
-Coding: todo-app-js/index.html, todo-app-js/main.css
+Coding: todo-app-js/index.html, todo-app-js/main.js
 
 ### Day 9
 
@@ -188,7 +188,7 @@ Coding: todo-app-js/index.html, todo-app-js/main.css
 
 - Implemented the ToDo delete feature
 
-Coding: todo-app-js/main.css
+Coding: todo-app-js/main.js
 
 ### Day 10
 
@@ -196,7 +196,7 @@ Coding: todo-app-js/main.css
 
 - Implemented the ToDo complete feature
 
-Coding: todo-app-js/index.html, todo-app-js/main.css
+Coding: todo-app-js/index.html, todo-app-js/main.js
 
 ### Day 11
 
