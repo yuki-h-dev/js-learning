@@ -35,6 +35,7 @@ js-learning/
 │   ├── index.html
 │   ├── main.js
 │   ├── style.css.js
+└── README.md
 ```
 
 ## Log
@@ -205,3 +206,11 @@ Coding: todo-app-js/index.html, todo-app-js/main.js
 - Implemented the ToDo return feature
 
 Coding: todo-app-js/main.js
+
+## Next Step
+
+This repository covers JavaScript fundamentals required before learning React.
+
+The next step is React learning:
+
+- https://github.com/yuki-h-dev/react-learning
